@@ -23,7 +23,7 @@ require_once "config/app.php";
 <body>
     <div class="container">
         <header>
-            <h1>Ingresa tu comentario</h1>
+            <h1>Foro</h1>
         </header>
         <main>
             <section class="comment-form">
